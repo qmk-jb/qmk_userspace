@@ -1,0 +1,3 @@
+[submodule "modules/jbanaszczyk"]
+	path = modules/jbanaszczyk
+	url = https://github.com/qmk-jb/qmk_modules.git
